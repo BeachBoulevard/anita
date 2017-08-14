@@ -1,3 +1,9 @@
-.row {
-  height= 50px
+.logo {
+  margin:auto;
+  text-align:center ;
+  background-image: url("assets/backgrounds/landing.jpg")
+
+}
+.logo >p{
+  font-size: 30px;
 }
