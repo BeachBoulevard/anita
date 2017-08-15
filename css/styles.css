@@ -9,3 +9,7 @@
   color: white ;
   font-family: 'Emilys Candy' ;
 }
+
+.image1 img {
+  float: left;
+}
