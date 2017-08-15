@@ -26,7 +26,15 @@ padding: 30px;
 
 }
 .image1 {
-  padding:30px;
+  padding:10px;
   border: 30px;
   margin: 20px;
+}
+
+
+.fasttext {
+
+  
+  padding:10px;
+  margin: 10px;
 }
