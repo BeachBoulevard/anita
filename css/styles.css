@@ -16,3 +16,17 @@
 .image2 img {
   float: right;
 }
+.test-box {
+   border: 20px ;
+}
+.image2 {
+padding: 30px;
+  border: 30px;
+  margin: 20px;
+
+}
+.image1 {
+  padding:30px;
+  border: 30px;
+  margin: 20px;
+}
