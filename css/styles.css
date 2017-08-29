@@ -34,7 +34,12 @@ padding: 30px;
 
 .fasttext {
 
-  
+
   padding:10px;
   margin: 10px;
+}
+
+.almost {
+background-image: url("../assets/backgrounds/foodsBg.jpg")
+
 }
