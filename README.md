@@ -23,14 +23,10 @@ site was deployed to beachboulevard.github.io/anita
 ## Contributing
 
 * Tayo Carl
-* Moringa School
+
 
 ## Authors
 
 * Tayo Carl
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details .
 
 
